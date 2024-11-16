@@ -22,18 +22,12 @@ Um aplicativo móvel para compartilhamento de posts e interação entre usuário
 - **Busca e Filtros**
   - Busca em posts e favoritos
   - Filtro por título e conteúdo
-  ```typescript:src/screens/Home.tsx
-  startLine: 121
-  endLine: 129
-  ```
+
 
 - **Perfil de Usuário**
   - Visualização de informações do usuário
   - Lista de posts do usuário
-  ```typescript:src/screens/UserProfile.tsx
-  startLine: 224
-  endLine: 260
-  ```
+
 
 ## 🛠 Tecnologias
 
